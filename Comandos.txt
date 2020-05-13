@@ -1,0 +1,13 @@
+Comandos de Git:
+- git config --list:
+		Sirve para ver con que cuenta está configurado git.
+- git clone URL:
+		Para clonar repositorios de github. Las URL se consiguien de los repositorios.
+- git status:
+		Sirve para ver si hay archivos no actualizados en github.
+- git add FILENAME:
+		Para agregar el archivo a git. Todavía no se ha hecho el commit.
+- git commit -m "COMENT" FILENAME:
+		Sirve para hacer el commit. COMENT es el comentario con el que se hace el commit.
+- git push -u origin master:
+		Para subir los commits a github. Se tendrán que poner tanto usuario como contraseña.
