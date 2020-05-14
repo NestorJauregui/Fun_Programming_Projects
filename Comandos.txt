@@ -11,3 +11,9 @@ Comandos de Git:
 		Sirve para hacer el commit. COMENT es el comentario con el que se hace el commit.
 - git push -u origin master:
 		Para subir los commits a github. Se tendrán que poner tanto usuario como contraseña.
+- git log:
+		Muestra todas las modificaciones que se han hecho con su respectivo codigo y su respectivo commit.
+- git checkout CODIGO:
+		Vuelve a la versión del repositorio correspondiente al CODIGO.
+- git checkout master:
+		En el caso de estar en una rama del pasado, vuelve a la rama master.
