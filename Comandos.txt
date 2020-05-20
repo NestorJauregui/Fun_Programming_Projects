@@ -17,3 +17,13 @@ Comandos de Git:
 		Vuelve a la versión del repositorio correspondiente al CODIGO.
 - git checkout master:
 		En el caso de estar en una rama del pasado, vuelve a la rama master.
+
+Comandos generales de la terminal:
+- pwd:
+		Imprime la dirección actual.
+- cp FILENAME NEW_FILENAME:
+		Hace una copia exacta de del archivo FILENAME en el mismo directorio con el nombre NEW_FILENAME.
+- mv FILENAME DIR:
+		Mueve el archivo FILENAME a la dirección DIR.
+- mv FILENAME NEW_FILENAME:
+		Cambia el nombre de un archivo FILENAME a NEW_FILENAME
